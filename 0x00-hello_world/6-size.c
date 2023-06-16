@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - a program that prints the size of variables types with c language
+ * main  a program that prints the size of variables types with c language
  * Return: 0 (completed)
  */
 int main(void)
