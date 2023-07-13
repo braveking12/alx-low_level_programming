@@ -12,7 +12,7 @@ void addNumbers(char *sum, char *nextNum, int nextLength);
 /**
  * stringLength - Finds the length of a string.
  * @str: The string to be measured.
- * 
+ *
  * Return: The length of the string.
  */
 int stringLength(char *str)
